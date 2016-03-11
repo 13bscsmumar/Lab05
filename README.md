@@ -11,5 +11,5 @@ Download the CSV file from lms (file is of enormous size and can’t be uploaded
 Include the JDBC jar file driver in eclipse and run the code.
 Provide the inputs in console.
 GitHub link:
-https://github.com/13bscsmumar/Lab05/new/master
+https://github.com/13bscsmumar/Lab05/
  
